@@ -1,5 +1,5 @@
 # Welcome to bobak-labs!
-
+Hi there! Feel free to join in and propose new projects - we are open to new challenges and ready to collaborate, discuss and share anything related to tech!
 ## Contribute
 If you want to propose any project/change, please submit a PR or Issue with a project description + details for this repository with a description `project proposal <project_name>`. Proposals for new projects should be submitted within this repo on branch `project-proposals`.
 
